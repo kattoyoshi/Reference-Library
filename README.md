@@ -56,7 +56,11 @@ My notes about reference informations.
   - [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993) by G. Huang et al., 2016.
 - MobileNet
   - [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861) by A. G. Howard et al., 2017.
-
+  
+### Visualize CNN
+- Class activation maps
+  - Learning Deep Features for Discriminative Localization [[Paper]](https://arxiv.org/abs/1512.04150) [[website]](http://cnnlocalization.csail.mit.edu/) by B. Zhou et al., 2015.
+  
 ### Object Detection
 - R-CNN
   - [Rich feature hierarchies for accurate object detection and semantic segmentation](https://arxiv.org/abs/1311.2524) by R. Girshick et al., 2013.
@@ -94,7 +98,7 @@ My notes about reference informations.
 ## Websites & blogs
 - [A 2017 Guide to Semantic Segmentation with Deep Learning](http://blog.qure.ai/notes/semantic-segmentation-deep-learning-review)
 - [Stanford Vision Lab.](http://vision.stanford.edu/publications.html)
-
+- [Class activation maps in Keras for visualizing where deep learning networks pay attention](https://jacobgil.github.io/deeplearning/class-activation-maps)
 ## My Memo
 - ISIC Challenge 2017
   - [SKIN LESION ANALYSIS TOWARD MELANOMA DETECTION: A CHALLENGE AT THE 2017 INTERNATIONAL SYMPOSIUM ON BIOMEDICAL IMAGING (ISBI), HOSTED BY THE INTERNATIONAL SKIN IMAGING COLLABORATION (ISIC)](https://arxiv.org/pdf/1710.05006.pdf)
