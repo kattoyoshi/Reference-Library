@@ -9,7 +9,6 @@ My notes about reference informations.
 
 ### Weight initialization
 - [Understanding the difficulty of training deep feedforward neural networks](http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf) by Xavier Glorot et al.
-
 - [Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/He_Delving_Deep_into_ICCV_2015_paper.pdf) by K. He et al.
 
 ### Optimization
@@ -19,7 +18,7 @@ My notes about reference informations.
 - [RMSprop](http://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf)
 - Nesterov Momentum
   - [Advances in optimizing Recurrent Networks](https://arxiv.org/pdf/1212.0901v2.pdf) by Y. Bengio et al., Section 3.5.
-  - [Ilya Sutskever’s thesis](http://www.cs.utoronto.ca/~ilya/pubs/ilya_sutskever_phd_thesis.pdf) (pdf)], section 7.2
+  - [Ilya Sutskever’s thesis](http://www.cs.utoronto.ca/~ilya/pubs/ilya_sutskever_phd_thesis.pdf) (pdf), section 7.2
 
 ### Batch Normalization
 - [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167)
@@ -108,3 +107,5 @@ My notes about reference informations.
 - Keras
   - [How to Grid Search Hyperparameters for Deep Learning Models in Python With Keras](https://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/)
   - [How to Check-Point Deep Learning Models in Keras](https://machinelearningmastery.com/check-point-deep-learning-models-keras/)
+- Tensorflow
+  - [Google Developers Blog](https://developers.googleblog.com/search/label/TensorFlow)
