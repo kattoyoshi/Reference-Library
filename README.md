@@ -97,7 +97,8 @@ My notes about reference informations.
 ## Websites & blogs
 - [A 2017 Guide to Semantic Segmentation with Deep Learning](http://blog.qure.ai/notes/semantic-segmentation-deep-learning-review)
 - [Stanford Vision Lab.](http://vision.stanford.edu/publications.html)
-- [Class activation maps in Keras for visualizing where deep learning networks pay attention](https://jacobgil.github.io/deeplearning/class-activation-maps)
+- [Google Research Blog](https://research.googleblog.com/search/label/TensorFlow)
+
 ## My Memo
 - ISIC Challenge 2017
   - [SKIN LESION ANALYSIS TOWARD MELANOMA DETECTION: A CHALLENGE AT THE 2017 INTERNATIONAL SYMPOSIUM ON BIOMEDICAL IMAGING (ISBI), HOSTED BY THE INTERNATIONAL SKIN IMAGING COLLABORATION (ISIC)](https://arxiv.org/pdf/1710.05006.pdf)
@@ -107,5 +108,7 @@ My notes about reference informations.
 - Keras
   - [How to Grid Search Hyperparameters for Deep Learning Models in Python With Keras](https://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/)
   - [How to Check-Point Deep Learning Models in Keras](https://machinelearningmastery.com/check-point-deep-learning-models-keras/)
+  - [Class activation maps in Keras for visualizing where deep learning networks pay attention](https://jacobgil.github.io/deeplearning/class-activation-maps)
 - Tensorflow
   - [Google Developers Blog](https://developers.googleblog.com/search/label/TensorFlow)
+  
