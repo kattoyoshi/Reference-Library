@@ -56,6 +56,9 @@ My notes about reference informations.
 - MobileNet
   - [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861) by A. G. Howard et al., 2017.
   
+### Transfer Learning
+- [How transferable are features in deep neural networks?](https://arxiv.org/pdf/1411.1792.pdf)
+
 ### Visualize CNN
 - Class activation maps
   - Learning Deep Features for Discriminative Localization [[Paper]](https://arxiv.org/abs/1512.04150) [[website]](http://cnnlocalization.csail.mit.edu/) by B. Zhou et al., 2015.
