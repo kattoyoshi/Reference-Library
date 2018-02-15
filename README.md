@@ -112,6 +112,7 @@ My notes about reference informations.
   - [How to Grid Search Hyperparameters for Deep Learning Models in Python With Keras](https://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/)
   - [How to Check-Point Deep Learning Models in Keras](https://machinelearningmastery.com/check-point-deep-learning-models-keras/)
   - [Class activation maps in Keras for visualizing where deep learning networks pay attention](https://jacobgil.github.io/deeplearning/class-activation-maps)
+  - [data augmentation](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)
 - Tensorflow
   - [Google Developers Blog](https://developers.googleblog.com/search/label/TensorFlow)
   
