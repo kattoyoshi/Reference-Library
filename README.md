@@ -104,6 +104,8 @@ My notes about reference informations.
 - CNN
   - [Large Scale Image Recognition using CNN's](https://arxiv.org/pdf/1409.1556.pdf)
   - [CNN Tricks](http://lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html)
+  - [A guide to receptive field arithmetic for Convolutional Neural Networks](https://medium.com/@nikasa1889/a-guide-to-receptive-field-arithmetic-for-convolutional-neural-networks-e0f514068807)
+  
 - Optimizer
   - [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/index.html)
 - Segmentation
