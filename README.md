@@ -22,6 +22,7 @@ My notes about reference informations.
 
 ### Batch Normalization
 - [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167)
+- [Why does batch normalization help?](https://www.quora.com/Why-does-batch-normalization-help)
 
 ### Regularization
 - Dropout
@@ -32,7 +33,7 @@ My notes about reference informations.
 ### Hyper-Parameter Optimization
 - [Random Search for Hyper-Parameter Optimization](http://www.jmlr.org/papers/v13/bergstra12a.html) by J.Bergstra et al.
 
-## Applications
+## CNN
 ### Object Recognition
 - LeNet
   - [Gradient-Based Learning Applied to Document Recognition](http://yann.lecun.com/exdb/publis/pdf/lecun-98.pdf) by Y. LeCun et al., 1998.
@@ -66,6 +67,8 @@ My notes about reference informations.
 ### Object Detection
 - R-CNN
   - [Rich feature hierarchies for accurate object detection and semantic segmentation](https://arxiv.org/abs/1311.2524) by R. Girshick et al., 2013.
+- Fast R-CNN
+  - [Fast R-CNN](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf) by R. Girshick et al.
 - Faster R-CNN
   - [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/abs/1506.01497) by S. Ren et al., 2015.
 
@@ -98,21 +101,30 @@ My notes about reference informations.
 (editing)
 
 ## Websites & blogs
-- [A 2017 Guide to Semantic Segmentation with Deep Learning](http://blog.qure.ai/notes/semantic-segmentation-deep-learning-review)
-- [Stanford Vision Lab.](http://vision.stanford.edu/publications.html)
-- [Google Research Blog](https://research.googleblog.com/search/label/TensorFlow)
-
-## My Memo
-- ISIC Challenge 2017
-  - [SKIN LESION ANALYSIS TOWARD MELANOMA DETECTION: A CHALLENGE AT THE 2017 INTERNATIONAL SYMPOSIUM ON BIOMEDICAL IMAGING (ISBI), HOSTED BY THE INTERNATIONAL SKIN IMAGING COLLABORATION (ISIC)](https://arxiv.org/pdf/1710.05006.pdf)
-  - [Image Classification of Melanoma, Nevus and Seborrheic Keratosis by Deep Neural Network Ensemble](https://arxiv.org/ftp/arxiv/papers/1703/1703.03108.pdf)
-  - [Incorporating the Knowledge of Dermatologists to Convolutional Neural Networks for the Diagnosis of Skin Lesions](https://arxiv.org/pdf/1703.01976.pdf)
-  - [RECOD Titans at ISIC Challenge 2017](https://arxiv.org/abs/1703.04819)
+- CNN
+  - [Large Scale Image Recognition using CNN's](https://arxiv.org/pdf/1409.1556.pdf)
+  - [CNN Tricks](http://lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html)
+- Optimizer
+  - [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/index.html)
+- Segmentation
+  - [A 2017 Guide to Semantic Segmentation with Deep Learning](http://blog.qure.ai/notes/semantic-segmentation-deep-learning-review)
+  
 - Keras
   - [How to Grid Search Hyperparameters for Deep Learning Models in Python With Keras](https://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/)
   - [How to Check-Point Deep Learning Models in Keras](https://machinelearningmastery.com/check-point-deep-learning-models-keras/)
   - [Class activation maps in Keras for visualizing where deep learning networks pay attention](https://jacobgil.github.io/deeplearning/class-activation-maps)
   - [data augmentation](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)
+  - [Building an Image Classifier](https://towardsdatascience.com/learning-about-data-science-building-an-image-classifier-part-2-a7bcc6d5e825)
+    - This blog mentions about transfer learning with Keras.
 - Tensorflow
   - [Google Developers Blog](https://developers.googleblog.com/search/label/TensorFlow)
+  - [How to improve my test accuracy using CNN in Tensorflow](https://datascience.stackexchange.com/questions/20104/how-to-improve-my-test-accuracy-using-cnn-in-tensorflow)
+  
+## My Memo
+- [Stanford Vision Lab.](http://vision.stanford.edu/publications.html)
+- ISIC Challenge 2017
+  - [SKIN LESION ANALYSIS TOWARD MELANOMA DETECTION: A CHALLENGE AT THE 2017 INTERNATIONAL SYMPOSIUM ON BIOMEDICAL IMAGING (ISBI), HOSTED BY THE INTERNATIONAL SKIN IMAGING COLLABORATION (ISIC)](https://arxiv.org/pdf/1710.05006.pdf)
+  - [Image Classification of Melanoma, Nevus and Seborrheic Keratosis by Deep Neural Network Ensemble](https://arxiv.org/ftp/arxiv/papers/1703/1703.03108.pdf)
+  - [Incorporating the Knowledge of Dermatologists to Convolutional Neural Networks for the Diagnosis of Skin Lesions](https://arxiv.org/pdf/1703.01976.pdf)
+  - [RECOD Titans at ISIC Challenge 2017](https://arxiv.org/abs/1703.04819)
   
