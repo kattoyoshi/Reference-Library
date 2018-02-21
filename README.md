@@ -129,4 +129,7 @@ My notes about reference informations.
   - [Image Classification of Melanoma, Nevus and Seborrheic Keratosis by Deep Neural Network Ensemble](https://arxiv.org/ftp/arxiv/papers/1703/1703.03108.pdf)
   - [Incorporating the Knowledge of Dermatologists to Convolutional Neural Networks for the Diagnosis of Skin Lesions](https://arxiv.org/pdf/1703.01976.pdf)
   - [RECOD Titans at ISIC Challenge 2017](https://arxiv.org/abs/1703.04819)
-  
+## Datasets or Competition
+- [List of datasets for machine learning research (wikipedia)](https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research)
+- [Kaggle](https://www.kaggle.com/)
+- [Deep Analytics](https://deepanalytics.jp/?tc=menu)
