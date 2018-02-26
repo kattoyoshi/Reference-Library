@@ -32,6 +32,10 @@ My notes about reference informations.
 
 ### Hyper-Parameter Optimization
 - [Random Search for Hyper-Parameter Optimization](http://www.jmlr.org/papers/v13/bergstra12a.html) by J.Bergstra et al.
+- [Systematic evaluation of CNN advances on the ImageNet](https://arxiv.org/abs/1606.02228) by D. Mishkin et al.
+  - In this article, they mention about the mini-batch size dependency
+- [Practical recommendations for gradient-based training of deep architectures](https://arxiv.org/abs/1206.5533) by Yoshua Bengio
+- [Neural Networks and Deep Learning book - Chapter 3: How to choose a neural network's hyper-parameters?](http://neuralnetworksanddeeplearning.com/chap3.html#how_to_choose_a_neural_network's_hyper-parameters)  by Michael Nielsen
 
 ## CNN
 ### Object Recognition
@@ -93,8 +97,17 @@ My notes about reference informations.
 - DeepLab v3
   - [Rethinking Atrous Convolution for Semantic Image Segmentation](https://arxiv.org/abs/1706.05587) by L. C. Chen et al., 2017.
 
-### RNN
-(editing)
+### RNN & LSTM
+- RNN
+  - [TDNN (Time delay neural network) wiki](https://en.wikipedia.org/wiki/Recurrent_neural_network#Elman_networks_and_Jordan_networks)
+  - [Elman Network](http://onlinelibrary.wiley.com/doi/10.1207/s15516709cog1402_1/abstract)
+  - [RNN wiki](https://en.wikipedia.org/wiki/Recurrent_neural_network#Elman_networks_and_Jordan_networks)
+- LSTM
+  - [LONG SHORT-TERM MEMORY](http://www.bioinf.jku.at/publications/older/2604.pdf) by Sepp Hochreiter and Jürgen Schmidhuber.
+- RNN Hyperparamters (model structures)
+  - [How to Generate a Good Word Embedding?](https://arxiv.org/abs/1507.05523) by S. Lai et al.
+  - [Visualizing and Understanding Recurrent Networks](https://arxiv.org/abs/1506.02078) by A. Karpathy et al.
+
 ### Style Transfer
 (editing)
 ### Image Generation
@@ -108,8 +121,15 @@ My notes about reference informations.
   
 - Optimizer
   - [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/index.html)
+  
 - Segmentation
   - [A 2017 Guide to Semantic Segmentation with Deep Learning](http://blog.qure.ai/notes/semantic-segmentation-deep-learning-review)
+
+- RNN & LSTM
+  - [A Beginner’s Guide to Recurrent Networks and LSTMs](https://deeplearning4j.org/lstm.html)
+  - [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+  - [Exploring LSTMs](http://blog.echen.me/2017/05/30/exploring-lstms/)
+  - [Learning Long-Term Dependencies with RNN](http://www.cs.toronto.edu/~guerzhoy/321/lec/W09/rnn_gated.pdf)
   
 - Keras
   - [How to Grid Search Hyperparameters for Deep Learning Models in Python With Keras](https://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/)
@@ -118,6 +138,7 @@ My notes about reference informations.
   - [data augmentation](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)
   - [Building an Image Classifier](https://towardsdatascience.com/learning-about-data-science-building-an-image-classifier-part-2-a7bcc6d5e825)
     - This blog mentions about transfer learning with Keras.
+    
 - Tensorflow
   - [Google Developers Blog](https://developers.googleblog.com/search/label/TensorFlow)
   - [How to improve my test accuracy using CNN in Tensorflow](https://datascience.stackexchange.com/questions/20104/how-to-improve-my-test-accuracy-using-cnn-in-tensorflow)
