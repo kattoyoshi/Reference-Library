@@ -2,7 +2,7 @@
 My notes about reference informations.
 
 ## Basic Knowledge
-### Books
+### Books and Websites
 - [Stanford University C231n](http://cs231n.github.io/)
 - [Deep Learning (MIT)](http://www.deeplearningbook.org/)
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
@@ -21,12 +21,12 @@ My notes about reference informations.
   - [Ilya Sutskever’s thesis](http://www.cs.utoronto.ca/~ilya/pubs/ilya_sutskever_phd_thesis.pdf) (pdf), section 7.2
 
 ### Batch Normalization
-- [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167)
+- [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167) by S. Ioffe et al.
 - [Why does batch normalization help?](https://www.quora.com/Why-does-batch-normalization-help)
 
 ### Regularization
 - Dropout
-  - [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](http://www.cs.toronto.edu/~rsalakhu/papers/srivastava14a.pdf)
+  - [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](http://www.cs.toronto.edu/~rsalakhu/papers/srivastava14a.pdf) by N. Srivastava et al.
 - DropConnect
   - [Regularization of Neural Networks using DropConnect](https://cs.nyu.edu/~wanli/dropc/)
 
@@ -35,7 +35,7 @@ My notes about reference informations.
 - [Systematic evaluation of CNN advances on the ImageNet](https://arxiv.org/abs/1606.02228) by D. Mishkin et al.
   - In this article, they mention about the mini-batch size dependency
 - [Practical recommendations for gradient-based training of deep architectures](https://arxiv.org/abs/1206.5533) by Yoshua Bengio
-- [Neural Networks and Deep Learning book - Chapter 3: How to choose a neural network's hyper-parameters?](http://neuralnetworksanddeeplearning.com/chap3.html#how_to_choose_a_neural_network's_hyper-parameters)  by Michael Nielsen
+
 
 ## CNN
 ### Object Recognition
@@ -98,16 +98,36 @@ My notes about reference informations.
   - [Rethinking Atrous Convolution for Semantic Image Segmentation](https://arxiv.org/abs/1706.05587) by L. C. Chen et al., 2017.
 
 ### RNN & LSTM
+- COMMON
+  - [A Beginner’s Guide to Recurrent Networks and LSTMs](https://deeplearning4j.org/lstm.html)
 - RNN
   - [TDNN (Time delay neural network) wiki](https://en.wikipedia.org/wiki/Recurrent_neural_network#Elman_networks_and_Jordan_networks)
-  - [Elman Network](http://onlinelibrary.wiley.com/doi/10.1207/s15516709cog1402_1/abstract)
-  - [RNN wiki](https://en.wikipedia.org/wiki/Recurrent_neural_network#Elman_networks_and_Jordan_networks)
+  - [Elman Network](http://onlinelibrary.wiley.com/doi/10.1207/s15516709cog1402_1/abstract) by Jeffrey L. Elman
+  - [Elman Network wiki](https://en.wikipedia.org/wiki/Recurrent_neural_network#Elman_networks_and_Jordan_networks)
+- GRU
+  - [Learning Long-Term Dependencies with RNN](http://www.cs.toronto.edu/~guerzhoy/321/lec/W09/rnn_gated.pdf) 
 - LSTM
   - [LONG SHORT-TERM MEMORY](http://www.bioinf.jku.at/publications/older/2604.pdf) by Sepp Hochreiter and Jürgen Schmidhuber.
+  - [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+  - [Exploring LSTMs](http://blog.echen.me/2017/05/30/exploring-lstms/)
 - RNN Hyperparamters (model structures)
-  - [How to Generate a Good Word Embedding?](https://arxiv.org/abs/1507.05523) by S. Lai et al.
-  - [Visualizing and Understanding Recurrent Networks](https://arxiv.org/abs/1506.02078) by A. Karpathy et al.
+  - LSTM Vs GRU
+    - [Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling](https://arxiv.org/abs/1412.3555) by J. Chung et al.
+    - [An Empirical Exploration of Recurrent Network Architectures](http://proceedings.mlr.press/v37/jozefowicz15.pdf) by R. Jozefowicz et al.
+    - [Visualizing and Understanding Recurrent Networks](https://arxiv.org/abs/1506.02078) by A. Karpathy et al.
+    - [Massive Exploration of Neural Machine Translation Architectures](https://arxiv.org/abs/1703.03906v2) by D. Britz et al.
+    - [How to Generate a Good Word Embedding?](https://arxiv.org/abs/1507.05523) by S. Lai et al.
+  - Example RNN Architectures
+    - [Neural Speech Recognizer: Acoustic-to-Word LSTM Model for Large Vocabulary Speech Recognition](https://arxiv.org/abs/1610.09975) by H. Soltau et al.
+    - [Speech Recognition with Deep Recurrent Neural Networks](https://arxiv.org/abs/1303.5778) by A. Graves et al.
+    - [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215) by I. Sutskever et al.
+    - [Show and Tell: A Neural Image Caption Generator](https://arxiv.org/abs/1411.4555) by O. Vinyals et al.
+    - [DRAW: A Recurrent Neural Network For Image Generation](https://arxiv.org/abs/1502.04623) by K. Gregor et al.
+    - [A Long Short-Term Memory Model for Answer Sentence Selection in Question Answering](http://www.aclweb.org/anthology/P15-2116) by D. Wang et al.
+    - [SEQUENCE-TO-SEQUENCE RNNS FOR TEXT SUMMARIZATION](https://pdfs.semanticscholar.org/3fbc/45152f20403266b02c4c2adab26fb367522d.pdf) by R. Nallapati et al.
 
+Question Answering
+Di Wang
 ### Style Transfer
 (editing)
 ### Image Generation
@@ -126,11 +146,8 @@ My notes about reference informations.
   - [A 2017 Guide to Semantic Segmentation with Deep Learning](http://blog.qure.ai/notes/semantic-segmentation-deep-learning-review)
 
 - RNN & LSTM
-  - [A Beginner’s Guide to Recurrent Networks and LSTMs](https://deeplearning4j.org/lstm.html)
-  - [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-  - [Exploring LSTMs](http://blog.echen.me/2017/05/30/exploring-lstms/)
-  - [Learning Long-Term Dependencies with RNN](http://www.cs.toronto.edu/~guerzhoy/321/lec/W09/rnn_gated.pdf)
-  
+
+
 - Keras
   - [How to Grid Search Hyperparameters for Deep Learning Models in Python With Keras](https://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/)
   - [How to Check-Point Deep Learning Models in Keras](https://machinelearningmastery.com/check-point-deep-learning-models-keras/)
@@ -150,6 +167,7 @@ My notes about reference informations.
   - [Image Classification of Melanoma, Nevus and Seborrheic Keratosis by Deep Neural Network Ensemble](https://arxiv.org/ftp/arxiv/papers/1703/1703.03108.pdf)
   - [Incorporating the Knowledge of Dermatologists to Convolutional Neural Networks for the Diagnosis of Skin Lesions](https://arxiv.org/pdf/1703.01976.pdf)
   - [RECOD Titans at ISIC Challenge 2017](https://arxiv.org/abs/1703.04819)
+  
 ## Datasets or Competition
 - [List of datasets for machine learning research (wikipedia)](https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research)
 - [Kaggle](https://www.kaggle.com/)
