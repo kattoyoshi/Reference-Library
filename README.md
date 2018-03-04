@@ -1,23 +1,24 @@
 # Reference Library
-My notes about reference informations.
+My notes about reference information.
 
-## Basic Knowledge
-### Books and Websites
+## Books and Documents
 - [Stanford University C231n](http://cs231n.github.io/)
-- [Deep Learning (MIT)](http://www.deeplearningbook.org/)
+- [Deep Learning Book](http://www.deeplearningbook.org/)
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 
-### Weight initialization
+## Basic Knowledge
+### Weight Initialization
 - [Understanding the difficulty of training deep feedforward neural networks](http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf) by Xavier Glorot et al.
 - [Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/He_Delving_Deep_into_ICCV_2015_paper.pdf) by K. He et al.
 
 ### Optimization
+- [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/index.html)
 - [Efficient BackProp](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf) by Y. LeCun el al.
 - [Adaptive Subgradient Methods for Online Learning and Stochastic Optimization (Adagrad)](http://jmlr.org/papers/v12/duchi11a.html) by J. Duchi et al.
 - [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980) by D. P. Kingma et al.
 - [RMSprop](http://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf)
 - Nesterov Momentum
-  - [Advances in optimizing Recurrent Networks](https://arxiv.org/pdf/1212.0901v2.pdf) by Y. Bengio et al., Section 3.5.
+  - [Advances in optimizing Recurrent Networks](https://arxiv.org/abs/1212.0901v2) by Y. Bengio et al., Section 3.5.
   - [Ilya Sutskever’s thesis](http://www.cs.utoronto.ca/~ilya/pubs/ilya_sutskever_phd_thesis.pdf) (pdf), section 7.2
 
 ### Batch Normalization
@@ -48,7 +49,7 @@ My notes about reference informations.
 - GoogLeNet
   - [Going Deeper with Convolutions](https://arxiv.org/abs/1409.4842) by C. Szegedy et al., 2014.
 - Network In Network
-  - [Network In Network](https://arxiv.org/pdf/1312.4400.pdf) by M. Lin et al., 2014
+  - [Network In Network](https://arxiv.org/abs/1312.4400) by M. Lin et al., 2014
     - This paper mentions about Global Average Pooling (GAP).
 - ResNet
   - [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385) by K. He et al., 2015.
@@ -62,7 +63,7 @@ My notes about reference informations.
   - [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861) by A. G. Howard et al., 2017.
   
 ### Transfer Learning
-- [How transferable are features in deep neural networks?](https://arxiv.org/pdf/1411.1792.pdf)
+- [How transferable are features in deep neural networks?](https://arxiv.org/abs/1411.1792)
 
 ### Visualize CNN
 - Class activation maps
@@ -97,56 +98,54 @@ My notes about reference informations.
 - DeepLab v3
   - [Rethinking Atrous Convolution for Semantic Image Segmentation](https://arxiv.org/abs/1706.05587) by L. C. Chen et al., 2017.
 
-### RNN & LSTM
-- COMMON
-  - [A Beginner’s Guide to Recurrent Networks and LSTMs](https://deeplearning4j.org/lstm.html)
-- RNN
-  - [TDNN (Time delay neural network) wiki](https://en.wikipedia.org/wiki/Recurrent_neural_network#Elman_networks_and_Jordan_networks)
-  - [Elman Network](http://onlinelibrary.wiley.com/doi/10.1207/s15516709cog1402_1/abstract) by Jeffrey L. Elman
-  - [Elman Network wiki](https://en.wikipedia.org/wiki/Recurrent_neural_network#Elman_networks_and_Jordan_networks)
-- GRU
-  - [Learning Long-Term Dependencies with RNN](http://www.cs.toronto.edu/~guerzhoy/321/lec/W09/rnn_gated.pdf) 
-- LSTM
-  - [LONG SHORT-TERM MEMORY](http://www.bioinf.jku.at/publications/older/2604.pdf) by Sepp Hochreiter and Jürgen Schmidhuber.
-  - [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-  - [Exploring LSTMs](http://blog.echen.me/2017/05/30/exploring-lstms/)
-- RNN Hyperparamters (model structures)
-  - LSTM Vs GRU
-    - [Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling](https://arxiv.org/abs/1412.3555) by J. Chung et al.
-    - [An Empirical Exploration of Recurrent Network Architectures](http://proceedings.mlr.press/v37/jozefowicz15.pdf) by R. Jozefowicz et al.
-    - [Visualizing and Understanding Recurrent Networks](https://arxiv.org/abs/1506.02078) by A. Karpathy et al.
-    - [Massive Exploration of Neural Machine Translation Architectures](https://arxiv.org/abs/1703.03906v2) by D. Britz et al.
-    - [How to Generate a Good Word Embedding?](https://arxiv.org/abs/1507.05523) by S. Lai et al.
-  - Example RNN Architectures
-    - [Neural Speech Recognizer: Acoustic-to-Word LSTM Model for Large Vocabulary Speech Recognition](https://arxiv.org/abs/1610.09975) by H. Soltau et al.
-    - [Speech Recognition with Deep Recurrent Neural Networks](https://arxiv.org/abs/1303.5778) by A. Graves et al.
-    - [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215) by I. Sutskever et al.
-    - [Show and Tell: A Neural Image Caption Generator](https://arxiv.org/abs/1411.4555) by O. Vinyals et al.
-    - [DRAW: A Recurrent Neural Network For Image Generation](https://arxiv.org/abs/1502.04623) by K. Gregor et al.
-    - [A Long Short-Term Memory Model for Answer Sentence Selection in Question Answering](http://www.aclweb.org/anthology/P15-2116) by D. Wang et al.
-    - [SEQUENCE-TO-SEQUENCE RNNS FOR TEXT SUMMARIZATION](https://pdfs.semanticscholar.org/3fbc/45152f20403266b02c4c2adab26fb367522d.pdf) by R. Nallapati et al.
+### Other Information
+- [Large Scale Image Recognition using CNN's](https://arxiv.org/abs/1409.1556)
+- [CNN Tricks](http://lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html)
+- [A guide to receptive field arithmetic for Convolutional Neural Networks](https://medium.com/@nikasa1889/a-guide-to-receptive-field-arithmetic-for-convolutional-neural-networks-e0f514068807)
 
-Question Answering
-Di Wang
-### Style Transfer
-(editing)
-### Image Generation
-(editing)
 
+## RNN & LSTM
+- [A Beginner’s Guide to Recurrent Networks and LSTMs](https://deeplearning4j.org/lstm.html)
+
+### RNN
+- [TDNN (Time delay neural network) wiki](https://en.wikipedia.org/wiki/Recurrent_neural_network#Elman_networks_and_Jordan_networks)
+- [Elman Network](http://onlinelibrary.wiley.com/doi/10.1207/s15516709cog1402_1/abstract) by Jeffrey L. Elman
+- [Elman Network wiki](https://en.wikipedia.org/wiki/Recurrent_neural_network#Elman_networks_and_Jordan_networks)
+
+### GRU
+- [Learning Long-Term Dependencies with RNN](http://www.cs.toronto.edu/~guerzhoy/321/lec/W09/rnn_gated.pdf) 
+
+### LSTM
+- [LONG SHORT-TERM MEMORY](http://www.bioinf.jku.at/publications/older/2604.pdf) by Sepp Hochreiter and Jürgen Schmidhuber.
+- [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+- [Exploring LSTMs](http://blog.echen.me/2017/05/30/exploring-lstms/)
+
+### RNN Hyperparamters (model structures)
+- LSTM Vs GRU
+  - [Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling](https://arxiv.org/abs/1412.3555) by J. Chung et al.
+  - [An Empirical Exploration of Recurrent Network Architectures](http://proceedings.mlr.press/v37/jozefowicz15.pdf) by R. Jozefowicz et al.
+  - [Visualizing and Understanding Recurrent Networks](https://arxiv.org/abs/1506.02078) by A. Karpathy et al.
+  - [Massive Exploration of Neural Machine Translation Architectures](https://arxiv.org/abs/1703.03906v2) by D. Britz et al.
+  - [How to Generate a Good Word Embedding?](https://arxiv.org/abs/1507.05523) by S. Lai et al.
+- Example RNN Architectures
+  - [Neural Speech Recognizer: Acoustic-to-Word LSTM Model for Large Vocabulary Speech Recognition](https://arxiv.org/abs/1610.09975) by H. Soltau et al.
+  - [Speech Recognition with Deep Recurrent Neural Networks](https://arxiv.org/abs/1303.5778) by A. Graves et al.
+  - [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215) by I. Sutskever et al.
+  - [Show and Tell: A Neural Image Caption Generator](https://arxiv.org/abs/1411.4555) by O. Vinyals et al.
+  - [DRAW: A Recurrent Neural Network For Image Generation](https://arxiv.org/abs/1502.04623) by K. Gregor et al.
+  - [A Long Short-Term Memory Model for Answer Sentence Selection in Question Answering](http://www.aclweb.org/anthology/P15-2116) by D. Wang et al.
+  - [SEQUENCE-TO-SEQUENCE RNNS FOR TEXT SUMMARIZATION](https://pdfs.semanticscholar.org/3fbc/45152f20403266b02c4c2adab26fb367522d.pdf) by R. Nallapati et al. 
+
+### Word2Vec
+  - [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781) by T. Mikolov et al.
+  - [Distributed Representations of Words and Phrases and their Compositionality](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) by T. Mikolov et al.
+  - [Word2Vec Tutorial - The Skip-Gram Model](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
+  - [Word2Vec (Part 1): NLP With Deep Learning with Tensorflow (Skip-gram)](http://www.thushv.com/natural_language_processing/word2vec-part-1-nlp-with-deep-learning-with-tensorflow-skip-gram/)
+  - [TensorFlow word2vec tutorial](https://www.tensorflow.org/tutorials/word2vec)
+  
 ## Websites & blogs
-- CNN
-  - [Large Scale Image Recognition using CNN's](https://arxiv.org/pdf/1409.1556.pdf)
-  - [CNN Tricks](http://lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html)
-  - [A guide to receptive field arithmetic for Convolutional Neural Networks](https://medium.com/@nikasa1889/a-guide-to-receptive-field-arithmetic-for-convolutional-neural-networks-e0f514068807)
-  
-- Optimizer
-  - [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/index.html)
-  
 - Segmentation
   - [A 2017 Guide to Semantic Segmentation with Deep Learning](http://blog.qure.ai/notes/semantic-segmentation-deep-learning-review)
-
-- RNN & LSTM
-
 
 - Keras
   - [How to Grid Search Hyperparameters for Deep Learning Models in Python With Keras](https://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/)
@@ -163,9 +162,9 @@ Di Wang
 ## My Memo
 - [Stanford Vision Lab.](http://vision.stanford.edu/publications.html)
 - ISIC Challenge 2017
-  - [SKIN LESION ANALYSIS TOWARD MELANOMA DETECTION: A CHALLENGE AT THE 2017 INTERNATIONAL SYMPOSIUM ON BIOMEDICAL IMAGING (ISBI), HOSTED BY THE INTERNATIONAL SKIN IMAGING COLLABORATION (ISIC)](https://arxiv.org/pdf/1710.05006.pdf)
-  - [Image Classification of Melanoma, Nevus and Seborrheic Keratosis by Deep Neural Network Ensemble](https://arxiv.org/ftp/arxiv/papers/1703/1703.03108.pdf)
-  - [Incorporating the Knowledge of Dermatologists to Convolutional Neural Networks for the Diagnosis of Skin Lesions](https://arxiv.org/pdf/1703.01976.pdf)
+  - [SKIN LESION ANALYSIS TOWARD MELANOMA DETECTION: A CHALLENGE AT THE 2017 INTERNATIONAL SYMPOSIUM ON BIOMEDICAL IMAGING (ISBI), HOSTED BY THE INTERNATIONAL SKIN IMAGING COLLABORATION (ISIC)](https://arxiv.org/abs/1710.05006)
+  - [Image Classification of Melanoma, Nevus and Seborrheic Keratosis by Deep Neural Network Ensemble](https://arxiv.org/abs/1703.03108)
+  - [Incorporating the Knowledge of Dermatologists to Convolutional Neural Networks for the Diagnosis of Skin Lesions](https://arxiv.org/abs/1703.01976)
   - [RECOD Titans at ISIC Challenge 2017](https://arxiv.org/abs/1703.04819)
   
 ## Datasets or Competition
