@@ -56,6 +56,7 @@ My notes about reference information.
 - Inception
   - [Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/abs/1512.00567) by C. Szegedy et al., 2015.
   - [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](https://arxiv.org/abs/1602.07261) by C. Szegedy et al., 2016.
+  - blog post [Inception modules: explained and implemented](https://hacktilldawn.com/2016/09/25/inception-modules-explained-and-implemented/) by Tommy Mulc.
 - Xception
   - [Xception: Deep Learning with Depthwise Separable Convolutions](https://arxiv.org/abs/1610.02357) by F. Chollet (Google), 2016.
 - DenseNet
