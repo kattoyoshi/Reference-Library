@@ -55,7 +55,7 @@ My notes about reference information.
   - [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385) by K. He et al., 2015.
 - Inception
   - [Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/abs/1512.00567) by C. Szegedy et al., 2015.
-  - [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](https://arxiv.org/abs/1602.07261) by C. Szegedy et al., 2016.
+  - [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](https://arxiv.org/abs/1602.07261) by C. Szegedy et al., 2016.
 - Xception
   - [Xception: Deep Learning with Depthwise Separable Convolutions](https://arxiv.org/abs/1610.02357) by F. Chollet (Google), 2016.
 - DenseNet
