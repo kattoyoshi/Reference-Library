@@ -136,7 +136,7 @@ My notes about reference information.
   - [Show and Tell: A Neural Image Caption Generator](https://arxiv.org/abs/1411.4555) by O. Vinyals et al.
   - [DRAW: A Recurrent Neural Network For Image Generation](https://arxiv.org/abs/1502.04623) by K. Gregor et al.
   - [A Long Short-Term Memory Model for Answer Sentence Selection in Question Answering](http://www.aclweb.org/anthology/P15-2116) by D. Wang et al.
-  - [SEQUENCE-TO-SEQUENCE RNNS FOR TEXT SUMMARIZATION](https://pdfs.semanticscholar.org/3fbc/45152f20403266b02c4c2adab26fb367522d.pdf) by R. Nallapati et al. 
+  - [SEQUENCE-TO-SEQUENCE RNNS FOR TEXT SUMMARIZATION](https://pdfs.semanticscholar.org/3fbc/45152f20403266b02c4c2adab26fb367522d.pdf) by R. Nallapati et al., 2016.
 
 ### Word2Vec
   - [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781) by T. Mikolov et al.
@@ -144,7 +144,10 @@ My notes about reference information.
   - [Word2Vec Tutorial - The Skip-Gram Model](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
   - [Word2Vec (Part 1): NLP With Deep Learning with Tensorflow (Skip-gram)](http://www.thushv.com/natural_language_processing/word2vec-part-1-nlp-with-deep-learning-with-tensorflow-skip-gram/)
   - [TensorFlow word2vec tutorial](https://www.tensorflow.org/tutorials/word2vec)
-  
+
+## GAN
+- [Improved Techniques for Training GANs](https://arxiv.org/abs/1606.03498) by T. Salimans et al.
+
 ## Websites & blogs
 - Segmentation
   - [A 2017 Guide to Semantic Segmentation with Deep Learning](http://blog.qure.ai/notes/semantic-segmentation-deep-learning-review)
