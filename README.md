@@ -101,6 +101,9 @@ My notes about reference information.
   - [Rethinking Atrous Convolution for Semantic Image Segmentation](https://arxiv.org/abs/1706.05587) by L. C. Chen et al., 2017.
 
 ### Other Information
+- Data Augmentation
+  - [Improved Regularization of Convolutional Neural Networks with Cutout](https://arxiv.org/abs/1708.04552) by T. DeVries et al., 2017.
+  - [Random Erasing Data Augmentation](https://arxiv.org/abs/1708.04896) by Z. Zhong et al., 2017.
 - [Large Scale Image Recognition using CNN's](https://arxiv.org/abs/1409.1556)
 - [CNN Tricks](http://lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html)
 - [A guide to receptive field arithmetic for Convolutional Neural Networks](https://medium.com/@nikasa1889/a-guide-to-receptive-field-arithmetic-for-convolutional-neural-networks-e0f514068807)
