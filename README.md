@@ -150,7 +150,8 @@ My notes about reference information.
   - [TensorFlow word2vec tutorial](https://www.tensorflow.org/tutorials/word2vec)
 
 ## GAN
-- [Improved Techniques for Training GANs](https://arxiv.org/abs/1606.03498) by T. Salimans et al.
+- [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) by Ian J. Goodfellow et al., 2014.
+- [Improved Techniques for Training GANs](https://arxiv.org/abs/1606.03498) by T. Salimans et al., 2016.
 
 ## Websites & blogs
 - Segmentation
