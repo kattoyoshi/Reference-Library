@@ -155,6 +155,7 @@ My notes about reference information.
 ## GAN
 - [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) by Ian J. Goodfellow et al., 2014.
 - [Improved Techniques for Training GANs](https://arxiv.org/abs/1606.03498) by T. Salimans et al., 2016.
+- [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004) by P. Isola et al., 2017.
 
 ## Websites & blogs
 - Segmentation
