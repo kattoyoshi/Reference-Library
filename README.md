@@ -11,6 +11,9 @@ My notes about reference information.
 - [Understanding the difficulty of training deep feedforward neural networks](http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf) by Xavier Glorot et al.
 - [Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/He_Delving_Deep_into_ICCV_2015_paper.pdf) by K. He et al.
 
+### Activation
+- [Maxout Networks](https://arxiv.org/abs/1302.4389) by Ian J. Goodfellow et al., 2013.
+
 ### Optimization
 - [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/index.html)
 - [Efficient BackProp](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf) by Y. LeCun el al.
@@ -107,7 +110,7 @@ My notes about reference information.
 - [Large Scale Image Recognition using CNN's](https://arxiv.org/abs/1409.1556)
 - [CNN Tricks](http://lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html)
 - [A guide to receptive field arithmetic for Convolutional Neural Networks](https://medium.com/@nikasa1889/a-guide-to-receptive-field-arithmetic-for-convolutional-neural-networks-e0f514068807)
-
+- [Preprocessing text before use RNN](https://datascience.stackexchange.com/questions/11402/preprocessing-text-before-use-rnn)
 
 ## RNN & LSTM
 - [A Beginner’s Guide to Recurrent Networks and LSTMs](https://deeplearning4j.org/lstm.html)
@@ -168,6 +171,9 @@ My notes about reference information.
 - Tensorflow
   - [Google Developers Blog](https://developers.googleblog.com/search/label/TensorFlow)
   - [How to improve my test accuracy using CNN in Tensorflow](https://datascience.stackexchange.com/questions/20104/how-to-improve-my-test-accuracy-using-cnn-in-tensorflow)
+ 
+- Music and Art
+  - [Magenta](https://magenta.tensorflow.org/) is a research project exploring the role of machine learning in the process of creating art and music. 
   
 ## My Memo
 - [Stanford Vision Lab.](http://vision.stanford.edu/publications.html)
