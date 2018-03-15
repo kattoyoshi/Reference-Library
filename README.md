@@ -160,7 +160,15 @@ My notes about reference information.
 - [Improved Techniques for Training GANs](https://arxiv.org/abs/1606.03498) by T. Salimans et al., 2016.
 - [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004) by P. Isola et al., 2017.
 
+## Tips for the real-world problem
+- [Learning from Imbalanced Classes](https://svds.com/learning-imbalanced-classes/)
+- [How to handle Imbalanced Classification Problems in machine learning?](https://www.analyticsvidhya.com/blog/2017/03/imbalanced-classification-problem/)
+- [How to do imbalanced classification in deep learning (tensorflow, RNN)?](https://datascience.stackexchange.com/questions/17219/how-to-do-imbalanced-classification-in-deep-learning-tensorflow-rnn)
+- [Learning Deep Representation for Imbalanced Classification](http://mmlab.ie.cuhk.edu.hk/projects/LMLE.html) by C. Huang et al., 2016.
+- [A systematic study of the class imbalance problem in convolutional neural networks](https://arxiv.org/abs/1710.05381) by M. Buda et al., 2017.
+
 ## Websites & blogs
+
 - Segmentation
   - [A 2017 Guide to Semantic Segmentation with Deep Learning](http://blog.qure.ai/notes/semantic-segmentation-deep-learning-review)
 
