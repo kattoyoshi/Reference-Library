@@ -107,14 +107,12 @@ My notes about reference information.
 - Data Augmentation
   - [Improved Regularization of Convolutional Neural Networks with Cutout](https://arxiv.org/abs/1708.04552) by T. DeVries et al., 2017.
   - [Random Erasing Data Augmentation](https://arxiv.org/abs/1708.04896) by Z. Zhong et al., 2017.
-- [Large Scale Image Recognition using CNN's](https://arxiv.org/abs/1409.1556)
+- [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556) by K. Simonyan et al., 2014.
 - [CNN Tricks](http://lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html)
 - [A guide to receptive field arithmetic for Convolutional Neural Networks](https://medium.com/@nikasa1889/a-guide-to-receptive-field-arithmetic-for-convolutional-neural-networks-e0f514068807)
-- [Preprocessing text before use RNN](https://datascience.stackexchange.com/questions/11402/preprocessing-text-before-use-rnn)
+
 
 ## RNN & LSTM
-- [A Beginner’s Guide to Recurrent Networks and LSTMs](https://deeplearning4j.org/lstm.html)
-- [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
 ### RNN
 - [TDNN (Time delay neural network) wiki](https://en.wikipedia.org/wiki/Recurrent_neural_network#Elman_networks_and_Jordan_networks)
@@ -151,6 +149,11 @@ My notes about reference information.
   - [Word2Vec Tutorial - The Skip-Gram Model](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
   - [Word2Vec (Part 1): NLP With Deep Learning with Tensorflow (Skip-gram)](http://www.thushv.com/natural_language_processing/word2vec-part-1-nlp-with-deep-learning-with-tensorflow-skip-gram/)
   - [TensorFlow word2vec tutorial](https://www.tensorflow.org/tutorials/word2vec)
+
+### Other Information
+- [A Beginner’s Guide to Recurrent Networks and LSTMs](https://deeplearning4j.org/lstm.html)
+- [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+- [Preprocessing text before use RNN](https://datascience.stackexchange.com/questions/11402/preprocessing-text-before-use-rnn)
 
 ## GAN
 - [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) by Ian J. Goodfellow et al., 2014.
