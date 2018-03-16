@@ -154,6 +154,7 @@ My notes about reference information.
 - [A Beginner’s Guide to Recurrent Networks and LSTMs](https://deeplearning4j.org/lstm.html)
 - [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 - [Preprocessing text before use RNN](https://datascience.stackexchange.com/questions/11402/preprocessing-text-before-use-rnn)
+- [Recurrent Batch Normalization](https://arxiv.org/abs/1603.09025)
 
 ## GAN
 - [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) by Ian J. Goodfellow et al., 2014.
