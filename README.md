@@ -183,7 +183,7 @@ My notes about reference information.
 - Tensorflow
   - [Google Developers Blog](https://developers.googleblog.com/search/label/TensorFlow)
   - [How to improve my test accuracy using CNN in Tensorflow](https://datascience.stackexchange.com/questions/20104/how-to-improve-my-test-accuracy-using-cnn-in-tensorflow)
- 
+  - [Implementing Batch Normalization in Tensorflow](https://r2rt.com/implementing-batch-normalization-in-tensorflow.html)
 - Music and Art
   - [Magenta](https://magenta.tensorflow.org/) is a research project exploring the role of machine learning in the process of creating art and music. 
   
