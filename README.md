@@ -110,7 +110,7 @@ My notes about reference information.
 - [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556) by K. Simonyan et al., 2014.
 - [CNN Tricks](http://lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html)
 - [A guide to receptive field arithmetic for Convolutional Neural Networks](https://medium.com/@nikasa1889/a-guide-to-receptive-field-arithmetic-for-convolutional-neural-networks-e0f514068807)
-
+- [A guide to convolution arithmetic for deep learning](https://arxiv.org/abs/1603.07285) by V. Dumoulin et al.
 
 ## RNN & LSTM
 
