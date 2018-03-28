@@ -81,7 +81,11 @@ My notes about reference information.
   - [Fast R-CNN](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf) by R. Girshick et al.
 - Faster R-CNN
   - [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/abs/1506.01497) by S. Ren et al., 2015.
-
+- YOLO v1~v5
+  - [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640) by J. Redmon et al., 2015~2016.
+- SSD v1~v5
+  - [SSD: Single Shot MultiBox Detector]() by Wei Liu et al., 2015~2016.
+  
 ### Segmentation
 - FCN
   - [Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1411.4038) by J. Long et al., 2014.
