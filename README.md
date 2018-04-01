@@ -165,6 +165,7 @@ My notes about reference information.
 - [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434) by A. Radford et al., 2015.
 - [Improved Techniques for Training GANs](https://arxiv.org/abs/1606.03498) by T. Salimans et al., 2016.
 - [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004) by P. Isola et al., 2017.
+- [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/abs/1701.00160) by Ian Goodfellow.
 
 ## Tips for the real-world problem
 - [Learning from Imbalanced Classes](https://svds.com/learning-imbalanced-classes/)
