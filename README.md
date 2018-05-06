@@ -167,6 +167,22 @@ My notes about reference information.
 - [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004) by P. Isola et al., 2017.
 - [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/abs/1701.00160) by Ian Goodfellow.
 
+## Reinforcement Learning
+- [Producing flexible behaviours in simulated environments](https://deepmind.com/blog/producing-flexible-behaviours-simulated-environments/)
+- [Emergence of Locomotion Behaviours in Rich Environments](https://arxiv.org/abs/1707.02286)
+- [Technical Note Q-Learning](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.80.7501&rep=rep1&type=pdf)
+- [A Theoretical and Empirical Analysis of Expected Sarsa](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.216.4144&rep=rep1&type=pdf)
+- [Random Features for Large-Scale Kernel Machines](https://people.eecs.berkeley.edu/~brecht/papers/07.rah.rec.nips.pdf) by Rahimi & Recht, 2007.
+- [Continuous control with deep reinforcement learning](https://arxiv.org/abs/1509.02971)
+  - Deep Deterministic Policy Gradients(DDPC) paper
+- [Reinforcement learning for robots using neural networks.](https://pdfs.semanticscholar.org/54c4/cf3a8168c1b70f91cf78a3dc98b671935492.pdf) by Long-Ji Lin, 1993.
+- [Human-level control through deep reinforcement learning](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf) by V. Mnih et al., 2015.
+- [Issues in Using Function Approximation for Reinforcement Learning (1993)](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.73.3097) by Sebastian Thrun , Anton Schwartz
+- [Deep Reinforcement Learning with Double Q-learning](https://arxiv.org/abs/1509.06461) by Hado van Hasselt et al., 2015.
+- [Prioritized Experience Replay](https://arxiv.org/abs/1511.05952) by Schaul et al., 2016.
+- [Dueling Network Architectures for Deep Reinforcement Learning](https://arxiv.org/abs/1511.06581) by Z. Wang et al., 2015.
+- [Deep Recurrent Q-Learning for Partially Observable MDPs](https://arxiv.org/abs/1507.06527) by Hausknecht & Stone, 2015.
+
 ## Tips for the real-world problem
 - [Learning from Imbalanced Classes](https://svds.com/learning-imbalanced-classes/)
 - [How to handle Imbalanced Classification Problems in machine learning?](https://www.analyticsvidhya.com/blog/2017/03/imbalanced-classification-problem/)
@@ -193,7 +209,11 @@ My notes about reference information.
   - [Implementing Batch Normalization in Tensorflow](https://r2rt.com/implementing-batch-normalization-in-tensorflow.html)
 - Music and Art
   - [Magenta](https://magenta.tensorflow.org/) is a research project exploring the role of machine learning in the process of creating art and music. 
+
+- OpenAI Gym
+  - [OpenAI Gym Beta](https://blog.openai.com/openai-gym-beta/)
   
+
 ## My Memo
 - [Stanford Vision Lab.](http://vision.stanford.edu/publications.html)
 - ISIC Challenge 2017
