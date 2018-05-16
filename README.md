@@ -84,7 +84,11 @@ My notes about reference information.
 - YOLO v1~v5
   - [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640) by J. Redmon et al., 2015~2016.
 - SSD v1~v5
-  - [SSD: Single Shot MultiBox Detector]() by Wei Liu et al., 2015~2016.
+  - [SSD: Single Shot MultiBox Detector](https://arxiv.org/abs/1512.02325) by Wei Liu et al., 2015~2016.
+- Mask RCNN v1~v3
+  - [Mask R-CNN](https://arxiv.org/abs/1703.06870) by K. He et al., 2017~2018.
+- RetinaNet v1~v2
+  - [Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002) by Tsung-Yi Lin et al., 2017~2018.
   
 ### Segmentation
 - FCN
