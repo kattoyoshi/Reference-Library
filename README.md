@@ -43,6 +43,7 @@ My notes about reference information.
 
 ## CNN
 ### Object Recognition
+Famous Networks
 - LeNet
   - [Gradient-Based Learning Applied to Document Recognition](http://yann.lecun.com/exdb/publis/pdf/lecun-98.pdf) by Y. LeCun et al., 1998.
 - AlexNet
@@ -66,7 +67,10 @@ My notes about reference information.
   - [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993) by G. Huang et al., 2016.
 - MobileNet
   - [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861) by A. G. Howard et al., 2017.
-  
+
+Technics
+- [Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results](https://arxiv.org/abs/1703.01780) by A. Tarvainen et al., 2017.
+
 ### Transfer Learning
 - [How transferable are features in deep neural networks?](https://arxiv.org/abs/1411.1792)
 
@@ -75,6 +79,7 @@ My notes about reference information.
   - Learning Deep Features for Discriminative Localization [[Paper]](https://arxiv.org/abs/1512.04150) [[website]](http://cnnlocalization.csail.mit.edu/) by B. Zhou et al., 2015.
   
 ### Object Detection
+Famous Networks
 - R-CNN
   - [Rich feature hierarchies for accurate object detection and semantic segmentation](https://arxiv.org/abs/1311.2524) by R. Girshick et al., 2013.
 - Fast R-CNN
@@ -91,6 +96,7 @@ My notes about reference information.
   - [Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002) by Tsung-Yi Lin et al., 2017~2018.
   
 ### Segmentation
+Famous Networks
 - FCN
   - [Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1411.4038) by J. Long et al., 2014.
 - SegNet
@@ -115,6 +121,7 @@ My notes about reference information.
 - Data Augmentation
   - [Improved Regularization of Convolutional Neural Networks with Cutout](https://arxiv.org/abs/1708.04552) by T. DeVries et al., 2017.
   - [Random Erasing Data Augmentation](https://arxiv.org/abs/1708.04896) by Z. Zhong et al., 2017.
+  - [mixup: Beyond Empirical Risk Minimization](mixup: Beyond Empirical Risk Minimization) by H. Zhang et al., 2017.
 - [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556) by K. Simonyan et al., 2014.
 - [CNN Tricks](http://lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html)
 - [A guide to receptive field arithmetic for Convolutional Neural Networks](https://medium.com/@nikasa1889/a-guide-to-receptive-field-arithmetic-for-convolutional-neural-networks-e0f514068807)
