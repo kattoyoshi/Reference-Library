@@ -121,7 +121,7 @@ Famous Networks
 - Data Augmentation
   - [Improved Regularization of Convolutional Neural Networks with Cutout](https://arxiv.org/abs/1708.04552) by T. DeVries et al., 2017.
   - [Random Erasing Data Augmentation](https://arxiv.org/abs/1708.04896) by Z. Zhong et al., 2017.
-  - [mixup: Beyond Empirical Risk Minimization](mixup: Beyond Empirical Risk Minimization) by H. Zhang et al., 2017.
+  - [mixup: Beyond Empirical Risk Minimization](https://arxiv.org/abs/1710.09412) by H. Zhang et al., 2017.
 - [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556) by K. Simonyan et al., 2014.
 - [CNN Tricks](http://lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html)
 - [A guide to receptive field arithmetic for Convolutional Neural Networks](https://medium.com/@nikasa1889/a-guide-to-receptive-field-arithmetic-for-convolutional-neural-networks-e0f514068807)
