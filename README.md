@@ -67,6 +67,8 @@ Famous Networks
   - [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993) by G. Huang et al., 2016.
 - MobileNet
   - [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861) by A. G. Howard et al., 2017.
+- SE Net
+  - [Squeeze-and-Excitation Networks](https://arxiv.org/abs/1709.01507) by Jie Hu et al., 2017.
 
 Technics
 - [Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results](https://arxiv.org/abs/1703.01780) by A. Tarvainen et al., 2017.
@@ -86,6 +88,8 @@ Famous Networks
   - [Fast R-CNN](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf) by R. Girshick et al.
 - Faster R-CNN
   - [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/abs/1506.01497) by S. Ren et al., 2015.
+- R-FCN
+  - [R-FCN: Object Detection via Region-based Fully Convolutional Networks](https://arxiv.org/abs/1605.06409) by J. Dai et al., 2016.
 - YOLO v1~v5
   - [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640) by J. Redmon et al., 2015~2016.
 - SSD v1~v5
@@ -116,6 +120,12 @@ Famous Networks
   - [Large Kernel Matters -- Improve Semantic Segmentation by Global Convolutional Network](https://arxiv.org/abs/1703.02719) by C. Peng et al., 2017.
 - DeepLab v3
   - [Rethinking Atrous Convolution for Semantic Image Segmentation](https://arxiv.org/abs/1706.05587) by L. C. Chen et al., 2017.
+
+### Pose Prediction
+- Convolutional Pose Machines
+  - [Convolutional Pose Machines](https://arxiv.org/abs/1602.00134) by Shih-En Wei et al., 2016.
+- Open Pose
+  - [Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields](https://arxiv.org/abs/1611.08050) by Zhe Cao et al., 2016.
 
 ### Other Information
 - Data Augmentation
