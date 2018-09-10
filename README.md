@@ -81,6 +81,9 @@ Technics
   - Learning Deep Features for Discriminative Localization [[Paper]](https://arxiv.org/abs/1512.04150) [[website]](http://cnnlocalization.csail.mit.edu/) by B. Zhou et al., 2015.
   
 ### Object Detection
+Overview
+- [Deep Learning for Generic Object Detection: A Survey](https://arxiv.org/abs/1809.02165) by Li Liu et al., 2018.
+
 Famous Networks
 - R-CNN
   - [Rich feature hierarchies for accurate object detection and semantic segmentation](https://arxiv.org/abs/1311.2524) by R. Girshick et al., 2013.
