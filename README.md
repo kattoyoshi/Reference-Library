@@ -72,13 +72,6 @@ Famous Networks
 
 Technics
 - [Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results](https://arxiv.org/abs/1703.01780) by A. Tarvainen et al., 2017.
-
-### Transfer Learning
-- [How transferable are features in deep neural networks?](https://arxiv.org/abs/1411.1792)
-
-### Visualize CNN
-- Class activation maps
-  - Learning Deep Features for Discriminative Localization [[Paper]](https://arxiv.org/abs/1512.04150) [[website]](http://cnnlocalization.csail.mit.edu/) by B. Zhou et al., 2015.
   
 ### Object Detection
 Overview
@@ -131,14 +124,25 @@ Famous Networks
   - [Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields](https://arxiv.org/abs/1611.08050) by Zhe Cao et al., 2016.
 
 ### Other Information
-- Data Augmentation
-  - [Improved Regularization of Convolutional Neural Networks with Cutout](https://arxiv.org/abs/1708.04552) by T. DeVries et al., 2017.
-  - [Random Erasing Data Augmentation](https://arxiv.org/abs/1708.04896) by Z. Zhong et al., 2017.
-  - [mixup: Beyond Empirical Risk Minimization](https://arxiv.org/abs/1710.09412) by H. Zhang et al., 2017.
+#### Data Augmentation
+- [Improved Regularization of Convolutional Neural Networks with Cutout](https://arxiv.org/abs/1708.04552) by T. DeVries et al., 2017.
+- [Random Erasing Data Augmentation](https://arxiv.org/abs/1708.04896) by Z. Zhong et al., 2017.
+- [mixup: Beyond Empirical Risk Minimization](https://arxiv.org/abs/1710.09412) by H. Zhang et al., 2017.
+
+#### Feature Visualization
+  - [Visualizing and Understanding Convolutional Networks](https://arxiv.org/abs/1311.2901) by Matthew D. Zeiler et al., 2013.
+  - Class activation maps
+    - Learning Deep Features for Discriminative Localization [[Paper]](https://arxiv.org/abs/1512.04150) [[website]](http://cnnlocalization.csail.mit.edu/) by B. Zhou et al., 2015.
+
+#### Transfer Learning
+- [How transferable are features in deep neural networks?](https://arxiv.org/abs/1411.1792)
+
+#### Others
 - [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556) by K. Simonyan et al., 2014.
 - [CNN Tricks](http://lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html)
 - [A guide to receptive field arithmetic for Convolutional Neural Networks](https://medium.com/@nikasa1889/a-guide-to-receptive-field-arithmetic-for-convolutional-neural-networks-e0f514068807)
-- [A guide to convolution arithmetic for deep learning](https://arxiv.org/abs/1603.07285) by V. Dumoulin et al.
+- [A guide to convolution arithmetic for deep learning](https://arxiv.org/abs/1603.07285) by V. Dumoulin et al. 2016.
+
 
 ## RNN & LSTM
 
