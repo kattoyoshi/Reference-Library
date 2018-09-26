@@ -130,9 +130,12 @@ Famous Networks
 - [mixup: Beyond Empirical Risk Minimization](https://arxiv.org/abs/1710.09412) by H. Zhang et al., 2017.
 
 #### Feature Visualization
-  - [Visualizing and Understanding Convolutional Networks](https://arxiv.org/abs/1311.2901) by Matthew D. Zeiler et al., 2013.
-  - Class activation maps
-    - Learning Deep Features for Discriminative Localization [[Paper]](https://arxiv.org/abs/1512.04150) [[website]](http://cnnlocalization.csail.mit.edu/) by B. Zhou et al., 2015.
+- [Visualizing and Understanding Convolutional Networks](https://arxiv.org/abs/1311.2901) by Matthew D. Zeiler et al., 2013.
+- Class activation maps
+  - Learning Deep Features for Discriminative Localization [[Paper]](https://arxiv.org/abs/1512.04150) [[website]](http://cnnlocalization.csail.mit.edu/) by B. Zhou et al., 2015.
+- [Striving for Simplicity: The All Convolutional Net](https://arxiv.org/abs/1412.6806) by 
+Striving for Simplicity: The All Convolutional Net
+Jost Tobias Springenberg et al., 2014.
 
 #### Transfer Learning
 - [How transferable are features in deep neural networks?](https://arxiv.org/abs/1411.1792)
