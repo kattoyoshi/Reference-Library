@@ -75,7 +75,10 @@ Technics
   
 ### Object Detection
 Overview
-- [Deep Learning for Generic Object Detection: A Survey](https://arxiv.org/abs/1809.02165) by Li Liu et al., 2018.
+- [Deep Learning for Generic Object Detection: A Survey](https://arxiv.org/abs/1809.02165) by Li Liu et al., 2018.  
+
+Blogs  
+- [Region of interest pooling explained](https://deepsense.ai/region-of-interest-pooling-explained/)  
 
 Famous Networks
 - R-CNN
