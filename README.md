@@ -81,8 +81,8 @@ Blogs
 - [Region of interest pooling explained](https://deepsense.ai/region-of-interest-pooling-explained/)  
 
 Famous Networks
-- Selective Search
-  - [Selective Search for Object Recognition](https://staff.fnwi.uva.nl/th.gevers/pub/GeversIJCV2013.pdf) by J. R. R. Uijlings et al., 2013.
+- SPP
+  - [Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition](https://arxiv.org/abs/1406.4729) by K. He et al., 2014.
 - R-CNN
   - [Rich feature hierarchies for accurate object detection and semantic segmentation](https://arxiv.org/abs/1311.2524) by R. Girshick et al., 2013.
 - Fast R-CNN
