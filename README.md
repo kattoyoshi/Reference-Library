@@ -79,6 +79,7 @@ Overview
 
 Blogs  
 - [Region of interest pooling explained](https://deepsense.ai/region-of-interest-pooling-explained/)  
+- [Deep Learning for Object Detection: A Comprehensive Review](https://towardsdatascience.com/deep-learning-for-object-detection-a-comprehensive-review-73930816d8d9)
 
 Famous Networks
 - SPP
