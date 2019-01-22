@@ -122,7 +122,9 @@ Famous Networks
   - [Large Kernel Matters -- Improve Semantic Segmentation by Global Convolutional Network](https://arxiv.org/abs/1703.02719) by C. Peng et al., 2017.
 - DeepLab v3
   - [Rethinking Atrous Convolution for Semantic Image Segmentation](https://arxiv.org/abs/1706.05587) by L. C. Chen et al., 2017.
-
+-ICNet
+  - [ICNet for Real-Time Semantic Segmentation on High-Resolution Images](https://arxiv.org/abs/1704.08545) by H.Zhao et al., 2017.
+  
 ### Pose Prediction
 - Convolutional Pose Machines
   - [Convolutional Pose Machines](https://arxiv.org/abs/1602.00134) by Shih-En Wei et al., 2016.
