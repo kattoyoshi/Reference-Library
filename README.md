@@ -124,6 +124,10 @@ Famous Networks
   - [Rethinking Atrous Convolution for Semantic Image Segmentation](https://arxiv.org/abs/1706.05587) by L. C. Chen et al., 2017.
 - ICNet
   - [ICNet for Real-Time Semantic Segmentation on High-Resolution Images](https://arxiv.org/abs/1704.08545) by H.Zhao et al., 2017.
+- DeepLab v3+
+  - [Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation](https://arxiv.org/abs/1802.02611) by L. C. Chen et al., 2018.
+- EncNet
+  - [Context Encoding for Semantic Segmentation](https://arxiv.org/abs/1803.08904) by H. Zhang et al., 2018.
   
 ### Pose Prediction
 - Convolutional Pose Machines
@@ -228,6 +232,7 @@ Jost Tobias Springenberg et al., 2014.
 - [How to do imbalanced classification in deep learning (tensorflow, RNN)?](https://datascience.stackexchange.com/questions/17219/how-to-do-imbalanced-classification-in-deep-learning-tensorflow-rnn)
 - [Learning Deep Representation for Imbalanced Classification](http://mmlab.ie.cuhk.edu.hk/projects/LMLE.html) by C. Huang et al., 2016.
 - [A systematic study of the class imbalance problem in convolutional neural networks](https://arxiv.org/abs/1710.05381) by M. Buda et al., 2017.
+- [Understanding the Disharmony between Dropout and Batch Normalization by Variance Shift](https://arxiv.org/abs/1801.05134) by X. Li et al., 2018.
 
 ## Websites & blogs
 
