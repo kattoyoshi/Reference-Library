@@ -111,6 +111,8 @@ Famous Networks
   - [Multi-Scale Context Aggregation by Dilated Convolutions](https://arxiv.org/abs/1511.07122) by F. Yu et al., 2015.
 - U-Net
   - [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597) by O. Ronneberger et al., 2015.
+- Dilation
+  - [Multi-Scale Context Aggregation by Dilated Convolutions](https://arxiv.org/abs/1511.07122v3) by F. Yu et al., 2015.
 - Deep lab. (v1 & v2)
   - [Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs](https://arxiv.org/abs/1412.7062) by L. C. Chen et al., 2014.
   - [DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs](https://arxiv.org/abs/1606.00915) by L. C. Chen et al., 2016.
@@ -118,6 +120,10 @@ Famous Networks
   - [RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation](https://arxiv.org/abs/1611.06612) by G. Lin et al., 2016.
 - PSPNet
   - [Pyramid Scene Parsing Network](https://arxiv.org/abs/1612.01105) by H. Zhao et al., 2016.
+- ENet
+  - [ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation](https://arxiv.org/abs/1606.02147) by A. Paszke et al., 2016.
+- FRRN
+  - [Full-Resolution Residual Networks for Semantic Segmentation in Street Scenes](https://arxiv.org/abs/1611.08323v2) by T Pohlen et al., 2016.
 - Large Kernel Matters
   - [Large Kernel Matters -- Improve Semantic Segmentation by Global Convolutional Network](https://arxiv.org/abs/1703.02719) by C. Peng et al., 2017.
 - DeepLab v3
@@ -128,6 +134,25 @@ Famous Networks
   - [Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation](https://arxiv.org/abs/1802.02611) by L. C. Chen et al., 2018.
 - EncNet
   - [Context Encoding for Semantic Segmentation](https://arxiv.org/abs/1803.08904) by H. Zhang et al., 2018.
+- BiSeNet
+  - [BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation](https://arxiv.org/abs/1808.00897) by C. Yu et al., 2018.
+- ShelfNet
+  - [ShelfNet for Fast Semantic Segmentation](https://arxiv.org/abs/1811.11254v6) by J. Zhuang et al., 2018.
+- Fast-SCNN
+  - [Fast-SCNN: Fast Semantic Segmentation Network](https://arxiv.org/abs/1902.04502) by Rudra P K Poudel et al., 2019.
+- ESNet
+  - [ESNet: An Efficient Symmetric Network for Real-time Semantic Segmentation] by Y. Wang et al., 2019.
+- SwiftNet
+  - [In Defense of Pre-trained ImageNet Architectures for Real-time Semantic Segmentation of Road-driving Images](https://arxiv.org/abs/1903.08469v2) by Marin Oršić et al., 2019.
+- HarDNet
+  [HarDNet: A Low Memory Traffic Network](https://arxiv.org/abs/1909.00948v1) by Ping Chao et al., 2019.
+- BiSeNet V2
+  - [BiSeNet V2: Bilateral Network with Guided Aggregation for Real-time Semantic Segmentation](https://arxiv.org/abs/2004.02147) by C. Yu et al., 2020.
+- FasterSeg
+  - [FasterSeg: Searching for Faster Real-time Semantic Segmentation](https://openreview.net/forum?id=BJgqQ6NYvB) W. Chen et al., 2020.
+- TDNet
+  - [Temporally Distributed Networks for Fast Video Semantic Segmentation](https://arxiv.org/abs/2004.01800v2) by Ping Hu et al., 2020.
+
   
 ### Pose Prediction
 - Convolutional Pose Machines
