@@ -146,6 +146,8 @@ Famous Networks
   - [In Defense of Pre-trained ImageNet Architectures for Real-time Semantic Segmentation of Road-driving Images](https://arxiv.org/abs/1903.08469v2) by Marin Oršić et al., 2019.
 - HarDNet
   - [HarDNet: A Low Memory Traffic Network](https://arxiv.org/abs/1909.00948v1) by Ping Chao et al., 2019.
+- RPNet
+  - [Residual Pyramid Learning for Single-Shot Semantic Segmentation](https://arxiv.org/abs/1903.09746) by X. Chen et al., 2019.
 - BiSeNet V2
   - [BiSeNet V2: Bilateral Network with Guided Aggregation for Real-time Semantic Segmentation](https://arxiv.org/abs/2004.02147) by C. Yu et al., 2020.
 - FasterSeg
