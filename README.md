@@ -138,6 +138,8 @@ Famous Networks
   - [BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation](https://arxiv.org/abs/1808.00897) by C. Yu et al., 2018.
 - ShelfNet
   - [ShelfNet for Fast Semantic Segmentation](https://arxiv.org/abs/1811.11254v6) by J. Zhuang et al., 2018.
+- DF-Seg
+  - [Partial Order Pruning: for Best Speed/Accuracy Trade-off in Neural Architecture Search](https://arxiv.org/abs/1903.03777) by X. Li et al., 2019.
 - Fast-SCNN
   - [Fast-SCNN: Fast Semantic Segmentation Network](https://arxiv.org/abs/1902.04502) by Rudra P K Poudel et al., 2019.
 - ESNet
